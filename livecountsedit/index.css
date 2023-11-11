@@ -11,7 +11,7 @@
 
 body {
     background-color: var(--bg-color, #1a1a20);
-    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: var(--fg-color, #fff)
 }
 
